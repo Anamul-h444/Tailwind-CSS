@@ -1,0 +1,11 @@
+- input
+- Floating input
+- write text under the input
+- input with icon
+- file input
+- date input
+- otp input
+- dropdown/option
+- radio button
+- checkbox
+- input group
